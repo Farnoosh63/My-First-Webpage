@@ -31,6 +31,11 @@ p{
   line-height: 18px;
 }
 
+.important{
+   font-size: 18px;
+   font-weight:bold;
+}
+
 ul{
   font-size: 16px;
   line-height: 20px;
